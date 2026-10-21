@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="cachorrinho.jpg" width="800" alt="Fotografia do cãozinho" style="border-radius: 8px;"/>
+  <img src="header.jpg" width="800" alt="Imagem" style="border-radius: 8px;"/>
 </div>
 <br>
 
