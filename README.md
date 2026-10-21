@@ -1,6 +1,6 @@
 # Oii! 👋 Eu sou a Yasmim 🌸
 
-<img align="right" src="header.jpg" width="520" style="border-radius: 8px;" alt="Flores de cerejeira"/>
+<img align="right" src="header.jpg" width="450" style="border-radius: 8px;" alt="Flores de cerejeira"/>
 
 - 🌍 São Vicente, São Paulo  
 - 🎓 Estudante de Sistemas para Internet na FATEC  
