@@ -1,19 +1,15 @@
-Oii! 👋 Eu sou a Yasmim 🌸
-==========================
+# Oii! 👋 Eu sou a Yasmim 🌸
 
-<div align="center">
-  <img src="header.jpg" width="600" height="200" style="object-fit: cover; border-radius: 8px;" alt="Imagem"/>
-</div>
+<img align="right" src="header.jpg" width="520" style="border-radius: 8px;" alt="Flores de cerejeira"/>
+
+- 🌍 São Vicente, São Paulo  
+- 🎓 Estudante de Sistemas para Internet na FATEC  
+- 🌸 Apaixonada por criar aplicações web  
+- 🎀 Estudando Front-end e Bancos de Dados  
+
 <br>
 
-- 🌍 Baseada na Baixada Santista, Brasil  
-- 🎓 Estudante de Sistemas para Internet na FATEC
-- 🌸 Apaixonada por criar soluções web criativas e eficientes  
-- 🎀 Explorando o mundo do Front-end e Bancos de Dados
-
----
-
-### 🧠 Minhas Habilidades 🩷
+**🧠 Minhas Habilidades 🩷**  
 
 **Front-end & Linguagens**  
 <p align="left">
@@ -28,3 +24,7 @@ Oii! 👋 Eu sou a Yasmim 🌸
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-FF9EAF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-FF9EAF?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+
+<br clear="all"/>
+
+---
