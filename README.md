@@ -7,7 +7,7 @@
 </div>
 <br>
 
-- 🌍 Baseada na Baixada Santista, Brasil  
+- 🌍 São Vicente, São Paulo  
 - 🎓 Estudante de Sistemas para Internet na FATEC
 - 🌸 Apaixonada por criar soluções web criativas e eficientes  
 - 🎀 Explorando o mundo do Front-end e Bancos de Dados
