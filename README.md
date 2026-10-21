@@ -1,13 +1,12 @@
-# Oii! 👋 Eu sou a Yasmim 🌸🐈
-
----
+Oii! 👋 Eu sou a Yasmim 🌸
+==========================
 
 <div align="center">
-  <img src="header.jpg" width="800" alt="Imagem" style="border-radius: 8px;"/>
+  <img src="header.jpg" width="600" height="200" style="object-fit: cover; border-radius: 8px;" alt="Imagem"/>
 </div>
 <br>
 
-- 🌍 São Vicente, São Paulo  
+- 🌍 Baseada na Baixada Santista, Brasil  
 - 🎓 Estudante de Sistemas para Internet na FATEC
 - 🌸 Apaixonada por criar soluções web criativas e eficientes  
 - 🎀 Explorando o mundo do Front-end e Bancos de Dados
